@@ -4,23 +4,23 @@
     <meta charset="UTF-8">
     <title>Ragna-Memory</title>
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="node_modules/bootstrap/compiler/bootstrap.css">
+    <link rel="stylesheet" href="../../node_modules/bootstrap/compiler/bootstrap.css">
     <!-- Styles -->
-    <link rel="stylesheet" href="node_modules/bootstrap/compiler/style.css">
+    <link rel="stylesheet" href="../../node_modules/bootstrap/compiler/style.css">
     <!-- Font AudioWide -->
     <link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
 </head>
 <body class="bg-gradient-primary">
 <!-- HEADER -->
 <header>
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
-        <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="index.html">Ragna Memory</a></p>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Ragna Memory</a></p>
         <button  class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSite">
             <ul class="navbar-nav mr-auto">
-                <li><a class="nav-link" href="guias.html"><h5 >Guias</h5></a></li>
+                <li><a class="nav-link" href="../guias/guias.php"><h5 >Guias</h5></a></li>
                 <li><a class="nav-link" href="info.html"><h5>Informações</h5></a></li>
                 <li><a class="nav-link" href="classes.html"><h5>Classes</h5></a></li>
                 <li>
@@ -57,23 +57,3 @@
         </div>
     </nav>
 </header>
-<!-- CORPO PAGINA -->
-<div class="corpo_pagina container">
-
-</div>
-<!-- Footer-->
-<div class="text-center">
-    <a href="#top"><h2 class="text-light nav-link" id="bottom">TOPO</h2></a>
-</div>
-<footer>
-    <div class="footer-bottom">
-        <div class="container">
-            <p class="font-weight-lighter text-center">www.ragnamemory.com © Copyright 2019 by Matheus Martins de Oliveira <p class="font-weight-lighter text-center">Imagens e nomes são propriedades da Level-Up Interactive S.A. / Warp Portal S.A. Copyright © 2002 ~ 2019 Gravity Corp. & LeeMyougjin</p><p class="font-weight-lighter text-center">TODOS OS DIREITOS RESERVADOS</p>
-        </div>
-    </div>
-</footer>
-</body>
-<script src="node_modules/jquery/dist/jquery.js"></script>
-<script src="node_modules/popper.js/dist/popper.min.js"></script>
-<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-</html>
