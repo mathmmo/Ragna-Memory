@@ -1,6 +1,6 @@
 <?php include '../includes/header.php'; ?>
 <!-- CORPO PAGINA -->
-<div class="corpo_pagina container bg-gradient-light">
+<div class="page-body container bg-gradient-light">
     <div class="quests-head"><h3 class="text-center">Guia de Quests por cidades</h3></div>
     <div class="row mb-2 ml-5 pl-5 pt-3">
         <div class="col-md-5 bg-gradient-light mb-5">

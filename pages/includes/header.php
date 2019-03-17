@@ -13,13 +13,13 @@
 <body class="bg-gradient-primary">
 <!-- HEADER -->
 <header>
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" id="nav-menu">
         <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Ragna Memory</a></p>
         <button  class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSite">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav ml-auto">
                 <li><a class="nav-link" href="../guias/guias.php"><h5 >Guias</h5></a></li>
                 <li><a class="nav-link" href="info.html"><h5>Informações</h5></a></li>
                 <li><a class="nav-link" href="classes.html"><h5>Classes</h5></a></li>

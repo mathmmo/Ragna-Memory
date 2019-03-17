@@ -1,10 +1,10 @@
 <?php include '../includes/header.php'; ?>
 <!-- CORPO PAGINA -->
-<div class="corpo_pagina container bg-gradient-light">
-    <h2 class="titulo-quest">ELMO DE ORC HERÓI</h2>
+<div class="page-body container bg-gradient-light">
+    <h2 class="quest-title">ELMO DE ORC HERÓI</h2>
     <h6>PASSO A PASSO</h6>
     <ol>
-        <li class="passo-quest">
+        <li class="quest-step">
             <span>NPC Guerreiro Orc -<code class="loc-npc">   Localização {in_orcs01 31/93}</code></span>
             <dl><dd><img alt="orc_npc" src="../../_imagens/geffen/elmo_orc_heroi/npc_mapa1.png"/></dd></dl>
             <table class="table table-sm table-bordered">
@@ -18,7 +18,7 @@
                     <td><img src="../../_imagens/geffen/elmo_orc_heroi/1304.png"><span>Machado Orc</a> x 1</span></td>
                 </tr>
             </table>
-            <ul class="descricao-quest">
+            <ul class="quest-description">
                 <li>
                     <span>Fale com o Orc Guerreiro. Há 90% de chance dele pedir para você sair. Apenas fale com ele de novo e de novo até que ele concorde em conversar com você.</span>
                 </li>
@@ -33,7 +33,7 @@
                 </li>
             </ul>
         </li>
-        <li class="passo-quest">NPC Guerreiro Orc -<code class="loc-npc">   Localização {in_orcs01 31/93}</code>
+        <li class="quest-step">NPC Guerreiro Orc -<code class="loc-npc">   Localização {in_orcs01 31/93}</code>
             <dl><dd><img alt="orc_npc" src="../../_imagens/geffen/elmo_orc_heroi/npc_mapa1.png"/></dd></dl>
             <table class="table table-sm table-bordered">
                 <caption>Materiais</caption>
@@ -50,7 +50,7 @@
                     <td><img src="../../_imagens/geffen/elmo_orc_heroi/19901.png"><span>Elmo de Orc</a> x 1</span></td>
                 </tr>
             </table>
-            <ul class="descricao-quest">
+            <ul class="quest-description">
                 <li>
                     <span>Sem o Machado Orc no seu inventário e com pelo menos 100 Amuleto de Orc, fale com ele novamente. Igual o ultimo passo, há 90% de chance de que ele repita a mesma coisa. Apenas continue falando com ele até que ele lhe peça os 10.000 Amutelo de Orc.</span>
                 </li>
@@ -59,7 +59,7 @@
                 </li>
             </ul>
         </li>
-        <li class="passo-quest">
+        <li class="quest-step">
             <span>NPC Guerreiro Orc -<code class="loc-npc">   Localização {in_orcs01 31/93}</code></span>
             <dl><dd><img alt="orc_npc" src="../../_imagens/geffen/elmo_orc_heroi/npc_mapa1.png"/></dd></dl>
             <table class="table table-sm table-bordered">
@@ -77,7 +77,7 @@
                     <td><img src="../../_imagens/geffen/elmo_orc_heroi/968.png"><span>Insígnia do Herói</a> x 1</span></td>
                 </tr>
             </table>
-            <ul class="descricao-quest">
+            <ul class="quest-description">
                 <li>
                     <span>Com o Machado Orc no seu inventário, fale com ele novamente. O mesmo que da última vez, ele repetirá a mesma coisa de novo e de novo. Apenas continue falando com ele até que ele lhe ofereça o próximo teste. O qual é coletar 100 Insígnia do Herói . </span>
                 </li>
@@ -86,7 +86,7 @@
                 </li>
             </ul>
         </li>
-        <li class="passo-quest">
+        <li class="quest-step">
             <span>NPC Orc Herói -<code class="loc-npc">   Localização {in_orcs01 162/33}</code>
             <dl><dd><img alt="orc_npc" src="../../_imagens/geffen/elmo_orc_heroi/npc_mapa2.png"/></dd></dl>
             <table class="table table-sm table-bordered">
@@ -109,7 +109,7 @@
                     <td><img src="../../_imagens/geffen/elmo_orc_heroi/931.png"><span>Amuleto dos Orcs</a> x 1</span></td>
                 </tr>
             </table>
-            <ul class="descricao-quest">
+            <ul class="quest-description">
                 <li>
                     <span>Com o Elmo Orc, Amuleto de Orc, Espada Orc e Insígnia do Herói  no seu inventário, fale com o NPC Orc Herói. Semelhante ao NPC Guerreiro Orc, você tem que continuar falando com ele. Na verdade, há apenas 5% de chance de ele falar com você sobre o Elmo Orc. Apenas continue tentando. </span>
                 </li>
@@ -122,6 +122,5 @@
             </ul>
         </li>
     </ol>
-</div>
 </div>
 <?php include '../includes/footer.php'; ?>

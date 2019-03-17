@@ -56,28 +56,43 @@
 <!-- Cards -->
 <div class="row mb-5 mt-3">
     <div class="col-md-3 pl-md-5">
-        <div class="card card-players-online">
-            <div class="card-body">
-                <img src="../../_imagens/carousel/wallpaper6.jpg" class="card-img-top">
-                <h5 class="card-title">Players Online</h5>
-                <h5 class="card-title text-dark">0</h5>
-                <a href="login.html" class="card-link">Login</a>
-                <a href="registrar.html" class="card-link">Registrar</a>
+        <div class="row">
+            <div class="card card-left">
+                <div class="card-body">
+                    <img src="../../_imagens/carousel/wallpaper6.jpg" class="card-img-top">
+                    <h5 class="card-title">Players Online</h5>
+                    <h5 class="card-title text-dark">0</h5>
+                    <a href="login.html" class="card-link">Login</a>
+                    <a href="registrar.html" class="card-link">Registrar</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class=" card card-left">
+                <div class="card-body">
+                    <h5>Estatísticas do Servidor</h5>
+                    <p>Contas criadas:</p>
+                    <p>0</p>
+                    <p>Tempo Online:</p>
+                    <p>00:00:00</p>
+                </div>
             </div>
         </div>
     </div>
     <div class="col-md-6">
         <div class="card">
             <div class="card-body">
+                <img src="../../_imagens/logo/logo_ragmemory4.png" class="card-img-top">
                 <h4 class="card-title">Sobre o Ragna Memory</h4>
                 <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur</p>
-                <p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p>
+                <p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p>
             </div>
         </div>
     </div>
-    <div class="col-md-3 pr-md-5">
-        <div class="card card-estatisticas">
+    <div class="col-md-3" style="padding-right: 32px !important; padding-left: 0px !important;">
+        <div class="card card-right">
             <div class="card-body card-title">
+                <img class="card-img-top" src="../../_imagens/chars/gm_deussol.png">
                 <h5>Estatísticas do Servidor</h5>
                 <p>Contas criadas:</p>
                 <p>0</p>
