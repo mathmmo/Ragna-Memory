@@ -13,6 +13,7 @@
 <body class="bg-gradient-primary">
 <!-- HEADER -->
 <header>
+    <!-- M -->
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" id="nav-menu">
         <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Ragna Memory</a></p>
         <button  class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">

@@ -1,7 +1,7 @@
 <?php include '../includes/header.php'; ?>
 <!-- CORPO PAGINA -->
 <div class="page-body container bg-gradient-light">
-    <h2 class="quest-title">ELMO DE ORC HERÓI</h2>
+    <img src="../../_imagens/geffen/elmo_orc_heroi/banner_elmoorcheroi3.png" class="img-banner-quest">
     <h6>PASSO A PASSO</h6>
     <ol>
         <li class="quest-step">

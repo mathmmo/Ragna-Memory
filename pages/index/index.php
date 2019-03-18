@@ -82,7 +82,7 @@
     <div class="col-md-6">
         <div class="card">
             <div class="card-body">
-                <img src="../../_imagens/logo/logo_ragmemory4.png" class="card-img-top">
+                <img src="../../_imagens/logo/logo_ragmemory5.png" class="card-img-top">
                 <h4 class="card-title">Sobre o Ragna Memory</h4>
                 <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur</p>
                 <p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p><p>teste</p>
@@ -101,5 +101,8 @@
             </div>
         </div>
     </div>
+</div>
+<div class="container-fluid prt-img-container">
+    <img src="../../_imagens/index/prontera.jpg" class="prt-img">
 </div>
 <?php include '../includes/footer.php' ?>
