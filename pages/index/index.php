@@ -9,14 +9,14 @@
     <!-- Imagens Carousel -->
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="../../_imagens/carousel/wallpaper1_edit.jpg" class="img-fluid d-block">
+            <img src="../../_imagens/carousel/wallpaper1.jpg" class="img-fluid d-block img-carousel">
             <div class="carousel-caption carousel-caption-bg d-none d-lg-block text-light">
                 <h1>Ragna Memory</h1>
                 <h3>Rates: 1 x 1 x 1 (Itens agregadores de XP)</h3>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="../../_imagens/carousel/wallpaper2_edit.jpg" class="img-fluid d-block">
+            <img src="../../_imagens/carousel/wallpaper2_edit.jpg" class="img-fluid d-block img-carousel">
             <div class="carousel-caption d-none d-md-block text-light">
                 <div class="row">
                     <div class="col-md-5 youtube">
@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="../../_imagens/carousel/wallpaper3_edit.jpg" class="img-fluid d-block">
+            <img src="../../_imagens/carousel/wallpaper7.jpg" class="img-fluid d-block img-carousel">
             <div class="carousel-caption carousel-caption-bg d-none d-lg-block text-light">
                 <h1>Ragna Memory</h1>
                 <h3>Servidor evolutivo, iníciando no episódio Juno e indo até o Renewal!</h3>
@@ -103,7 +103,7 @@
         </div>
     </div>
 </div>
-<div class="container-fluid prt-img-container">
+<!--<div class="container-fluid prt-img-container">
     <img src="../../_imagens/index/prontera.jpg" class="prt-img">
-</div>
+</div>-->
 <?php include '../includes/footer.php' ?>
