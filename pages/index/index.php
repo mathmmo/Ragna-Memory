@@ -5,11 +5,12 @@
         <li data-target="#carouselSite" data-slide-to="0" class="active"></li>
         <li data-target="#carouselSite" data-slide-to="1"></li>
         <li data-target="#carouselSite" data-slide-to="2"></li>
+        <li data-target="#carouselSite" data-slide-to="3"></li>
     </ol>
     <!-- Imagens Carousel -->
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="../../_imagens/carousel/wallpaper1.jpg" class="img-fluid d-block img-carousel">
+            <img src="../../_imagens/carousel/edit9_trim.jpg" class="img-fluid d-block img-carousel">
             <div class="carousel-caption carousel-caption-bg d-none d-lg-block text-light">
                 <h1>Ragna Memory</h1>
                 <h3>Rates: 1 x 1 x 1 (Itens agregadores de XP)</h3>
@@ -41,6 +42,9 @@
                 <h1>Ragna Memory</h1>
                 <h3>Servidor evolutivo, iníciando no episódio Juno e indo até o Renewal!</h3>
             </div>
+        </div>
+        <div class="carousel-item">
+            <img src="../../_imagens/carousel/edit6.jpg" class="img-fluid d-block img-carousel">
         </div>
     </div>
     <!-- Controles de slide -->
@@ -103,7 +107,4 @@
         </div>
     </div>
 </div>
-<!--<div class="container-fluid prt-img-container">
-    <img src="../../_imagens/index/prontera.jpg" class="prt-img">
-</div>-->
 <?php include '../includes/footer.php' ?>
