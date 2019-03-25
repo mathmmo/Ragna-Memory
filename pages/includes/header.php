@@ -16,17 +16,13 @@
     <!-- Menu -->
     <div class="bg-dark text-center">
         <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Ragna <img src="../../_imagens/logo/logo_ragmemory4.png" class="" style="width: 20%"> Memory</a></p>
-        <!--<p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Ragna</a></p>
-        <img src="../../_imagens/logo/logo_ragmemory4.png" class="" style="width: 10%">
-        <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Memory</a></p>-->
     </div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-center" id="nav-menu">
-        <!-- <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Ragna <img src="../../_imagens/logo/logo_ragmemory4.png" class="" style="width: 10%"> Memory</a></p> -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="nav-menu">
         <button  class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse container text-center" id="navbarSite">
-            <ul class="navbar-nav container navbar-right ul-menu">
+        <div class="collapse navbar-collapse" id="navbarSite">
+            <ul class="navbar-nav mr-auto ml-auto">
                 <li><a class="nav-link" href="../index/index.php"><h5 >Home</h5></a></li>
                 <li><a class="nav-link" href="../guias/guias.php"><h5 >Guias</h5></a></li>
                 <li><a class="nav-link" href="#"><h5>Classes</h5></a></li>
