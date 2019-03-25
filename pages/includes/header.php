@@ -14,7 +14,7 @@
 <!-- HEADER -->
 <header>
     <!-- Menu -->
-    <div class="bg-dark text-center">
+    <div class="bg-dark text-center" id="nav-logo">
         <p class="logo-rag-p"><a class="navbar-brand h1 mb-0 logo-rag" href="../index/index.php">Ragna <img src="../../_imagens/logo/logo_ragmemory4.png" class="" style="width: 20%"> Memory</a></p>
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="nav-menu">
